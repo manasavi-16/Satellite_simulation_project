@@ -1,0 +1,54 @@
+1. TITLE
+Simulation of a Satellite-Based Disaster Response Network Using STK
+(Satellite Tool Kit)
+2. ABSTRACT
+This project investigates the simulation of a Satellite-Based Disaster
+Response Network using the Satellite Tool Kit (STK) to reestablish
+communication in regions affected by natural disasters where terrestrial
+networks are compromised. The simulation creates a realistic
+framework for deploying satellites to provide essential communication
+channels, which are critical for effective disaster management and
+coordination of relief efforts. Key steps include setting up satellite
+configurations, establishing ground stations, creating communication
+links, and analyzing performance metrics like signal strength, latency,
+and coverage. The resulting simulation serves as a powerful model for
+illustrating how satellite networks can support disaster response,
+offering a robust communication solution when conventional
+infrastructure fails.
+3. PROBLEM DEFINITION
+Natural disasters often devastate terrestrial communication
+infrastructure, isolating affected areas and hindering rescue and
+recovery operations. In such cases, establishing reliable communication
+becomes paramount for effective disaster response. This project aims to
+address the issue by simulating a satellite-based communication
+network that can provide a quick and dependable alternative to
+terrestrial networks. Using STK, the project models the deployment of
+Low Earth Orbit (LEO) satellites to enable resilient communication links
+between disaster zones and response centers, ensuring continuous
+information flow critical for saving lives and coordinating relief.
+4. RATIONALE OF THE PROBLEM
+Traditional communication networks, including cell towers and wired
+connections, are highly vulnerable to physical damage during disasters
+such as earthquakes, tsunamis, or hurricanes. The loss of
+communication exacerbates the crisis, making it challenging for
+authorities to assess needs, allocate resources, and coordinate
+responses. Satellite networks, particularly those with LEO
+constellations, offer a reliable alternative by providing coverage from
+space, unaffected by ground-level disruptions. Simulating this scenario
+with STK enables a detailed analysis of satellite-based communication
+networks’ role in disaster recovery, demonstrating how they can fill
+critical communication gaps and support efficient disaster management.
+5. OBJECTIVES
+○ To simulate a disaster response scenario using STK, where
+satellite-based communication replaces traditional networks in
+affected areas.
+○ To model satellite configurations, such as orbit types and satellite
+constellations, suitable for rapid communication response.
+○ To configure and simulate ground stations in disaster zones and
+response centers, enabling effective coordination.
+○ To establish and analyze communication links between satellites
+and ground stations, evaluating key metrics like signal strength,
+latency, and coverage.
+○ To visualize the impact of satellite networks on disaster
+management, assess how they facilitate communication and
+assist relief efforts.
